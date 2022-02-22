@@ -5,7 +5,10 @@
       <map>
         <entry key="..\:/Users/manus/AndroidStudioProjects/ToDoLisT/app/src/main/res/drawable/add_button_shape.xml" value="0.153" />
         <entry key="..\:/Users/manus/AndroidStudioProjects/ToDoLisT/app/src/main/res/drawable/background_gradient.xml" value="0.153" />
+        <entry key="..\:/Users/manus/AndroidStudioProjects/ToDoLisT/app/src/main/res/drawable/button_shape.xml" value="0.153" />
         <entry key="..\:/Users/manus/AndroidStudioProjects/ToDoLisT/app/src/main/res/drawable/ic_add.xml" value="0.153" />
+        <entry key="..\:/Users/manus/AndroidStudioProjects/ToDoLisT/app/src/main/res/layout/activity_edit_note.xml" value="0.209375" />
+        <entry key="..\:/Users/manus/AndroidStudioProjects/ToDoLisT/app/src/main/res/layout/activity_edit_note2.xml" value="0.209375" />
         <entry key="..\:/Users/manus/AndroidStudioProjects/ToDoLisT/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/manus/AndroidStudioProjects/ToDoLisT/app/src/main/res/layout/note_holder.xml" value="0.209375" />
         <entry key="..\:/Users/manus/AndroidStudioProjects/ToDoLisT/app/src/main/res/layout/note_input.xml" value="0.209375" />

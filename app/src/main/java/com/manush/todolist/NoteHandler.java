@@ -85,7 +85,7 @@ public class NoteHandler extends DatabaseHelper {
      public  boolean delete(int id){
          boolean isDeleted;
          SQLiteDatabase db = this.getWritableDatabase();
-         isDeleted = db.delete("Note","id'"+ id + "'",null)>0;
+         isDeleted = db.delete("Note","id='"+ id + "'",null)>0;
          db.close();
          return isDeleted;
      }
